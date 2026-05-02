@@ -1,0 +1,8 @@
+{
+  "permissions.mode": "trust_all",
+  "permissions": {
+    "allow": [
+      "Bash(git add *)"
+    ]
+  }
+}
